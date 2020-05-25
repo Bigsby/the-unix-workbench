@@ -66,7 +66,7 @@ spring to harvest by autumn. Software is not produced in factories on an
 assembly line. Software is a hand-made, often bespoke good. If a software
 developer is an artisan, then Unix is their workbench. Unix provides an
 essential and simple set of tools in a distraction-free environment. Even if
-you are not a software developer learning Unix can open you up to new methods
+you are not a software developer, learning Unix can open you up to new methods
 of thinking and novel ways to scale your ideas. My goal
 for this book is to help you get started with Unix by writing the book I would
 have wanted when I was first learning Unix. If you have any additions,
