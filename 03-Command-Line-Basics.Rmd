@@ -120,7 +120,7 @@ can also use `~` as a shorter way to refer to the same path. We will see this
 demonstrated soon.
 
 Open the command line if you closed it. Your shell is always in a directory,
-and the directory that your shell starts in your home directory. Whatever 
+and the directory that your shell starts is your home directory. Whatever 
 directory your shell is in is called the **working directory**. Enter the `pwd` command into your shell to **p**rint the **w**orking **d**irectory.
 
 ```{r, engine='bash', eval=FALSE}
